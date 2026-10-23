@@ -3,7 +3,9 @@
 __pycache__/
 .pytest_cache/
 *.db
-*.joblib# Secrets
+*.joblib
+
+# Secrets
 .env
 .env.*
 !.env.example
