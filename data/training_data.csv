@@ -1,0 +1,81 @@
+text,category
+VPN is not connecting,Network
+Corporate VPN connection failed,Network
+Office wifi is disconnected,Network
+Internet connection is very slow,Network
+Cannot access company network,Network
+Network connection keeps dropping,Network
+Router is not working,Network
+Unable to connect to wireless network,Network
+Ethernet connection is unavailable,Network
+VPN authentication connection timeout,Network
+Office internet is down,Network
+Cannot reach internal network server,Network
+Wifi signal keeps disconnecting,Network
+Network latency is extremely high,Network
+VPN tunnel connection is failing,Network
+Unable to access intranet over VPN,Network
+Laptop screen is broken,Hardware
+Keyboard keys are not working,Hardware
+Mouse is not responding,Hardware
+Laptop battery is not charging,Hardware
+Monitor display is flickering,Hardware
+Printer hardware is jammed,Hardware
+Computer fan is making noise,Hardware
+Laptop power button is broken,Hardware
+External hard drive is damaged,Hardware
+Laptop overheating during use,Hardware
+Monitor is not turning on,Hardware
+USB port is physically damaged,Hardware
+Desktop computer will not power on,Hardware
+Laptop charger is not working,Hardware
+Keyboard has stopped responding,Hardware
+Printer paper feed is broken,Hardware
+Outlook application is crashing,Software
+Microsoft Word is not opening,Software
+Excel application freezes,Software
+Software installation is failing,Software
+Application shows unexpected error,Software
+Browser crashes repeatedly,Software
+Teams application is not responding,Software
+PDF reader fails to open documents,Software
+Office application keeps freezing,Software
+Software update installation failed,Software
+Outlook emails are not syncing,Software
+Application closes unexpectedly,Software
+Cannot launch accounting software,Software
+Operating system update is stuck,Software
+Video conferencing software crashes,Software
+Installed application has stopped working,Software
+Forgot my account password,Access
+Cannot login to employee portal,Access
+My user account is locked,Access
+Need access to shared folder,Access
+Password reset is required,Access
+Permission denied while opening folder,Access
+Cannot sign into employee account,Access
+Need permission for internal application,Access
+Account credentials are not accepted,Access
+Employee login has been disabled,Access
+Unable to reset account password,Access
+Access rights are missing,Access
+My account has been suspended,Access
+Need user access to finance portal,Access
+Single sign on is failing,Access
+Unable to authenticate employee account,Access
+Suspicious phishing email received,Security
+Possible malware infection detected,Security
+Company data may have been leaked,Security
+Unauthorized login attempt detected,Security
+Ransomware warning on laptop,Security
+Suspicious attachment was opened,Security
+Potential security breach reported,Security
+Antivirus detected malicious software,Security
+Confidential files were exposed,Security
+Employee account may be compromised,Security
+Unrecognized device accessed my account,Security
+Possible credential theft detected,Security
+Suspicious activity on company server,Security
+Sensitive information was stolen,Security
+Malicious link was clicked,Security
+Unauthorized access to confidential data,Security

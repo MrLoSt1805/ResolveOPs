@@ -1,0 +1,54 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.db
+*.joblib# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local databases and SQLite temporary files
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Machine learning model artifacts, if generated locally
+# Uncomment only if these are reproducible and not required to run the project
+# *.pkl
+# *.joblib
+
+screenshots.zip
